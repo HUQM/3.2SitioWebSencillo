@@ -1,0 +1,24 @@
+{
+  "name": "3.2sitiowebsencillo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUQM/3.2SitioWebSencillo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUQM/3.2SitioWebSencillo/issues"
+  },
+  "homepage": "https://github.com/HUQM/3.2SitioWebSencillo#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
